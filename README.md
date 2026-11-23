@@ -29,11 +29,11 @@ java -jar morphe-desktop-*-all.jar patch -p patches-*.mpp UAKino.apk
 ## 🩹 Патчі
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0](https://github.com/rareMaxim/uakino-morphe-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;&middot;&nbsp;&nbsp;`main`&nbsp;&nbsp;&middot;&nbsp;&nbsp;**1 patches** across **1 apps**&nbsp;&nbsp;&middot;&nbsp;&nbsp;[Full details](PATCHES.md)
 
-| Патч | Опис |
-|---|---|
-| **Disable ads** | Вимикає банери та рекламу перед відео (VAST preroll). |
-
+| # | App | Patches | Version | Package |
+|---|---|---|---|---|
+| 1 | [**UAKino**](PATCHES.md#uakino-uakino) | 1 | `1.15` | [`ua.kino`](https://play.google.com/store/apps/details?id=ua.kino) |
 <!-- PATCHES_END -->
 
 ## Як працює «Disable ads»
